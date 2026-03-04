@@ -5,6 +5,7 @@ di sini kita bakal bikin inner join , left join , right join. Pakai database tok
    
      <img width="431" height="67" alt="image" src="https://github.com/user-attachments/assets/d8f8c37c-ad53-4fe6-8881-d897a01e22dc" />
 
+
       <img width="339" height="43" alt="image" src="https://github.com/user-attachments/assets/8d17ab8a-e9a6-425c-8d50-259237fa3cb7" />
 
 3. buat tabel pelanggan dan pesananan
